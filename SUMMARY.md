@@ -4,7 +4,8 @@
 
 ## 模型
 
-* [建模](mo-xing/jian-mo.md)
+* [人物建模](mo-xing/jian-mo.md)
+* [场景建模](mo-xing/chang-jing-jian-mo.md)
 
 ## 人设
 
