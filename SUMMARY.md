@@ -10,3 +10,7 @@
 
 * [建模](mo-xing/jian-mo.md)
 
+## 人设
+
+* [老师](ren-she/lao-shi.md)
+
