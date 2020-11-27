@@ -17,4 +17,5 @@
 ## 交互
 
 * [语言](jiao-hu/yu-yan.md)
+* [视觉](jiao-hu/shi-jue.md)
 
