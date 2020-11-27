@@ -2,10 +2,6 @@
 
 * [ATZ.Ada](README.md)
 
-## 技术
-
-* [动捕](ji-shu/dong-bu.md)
-
 ## 模型
 
 * [建模](mo-xing/jian-mo.md)
@@ -16,6 +12,7 @@
 
 ## 交互
 
+* [动捕](jiao-hu/dong-bu.md)
 * [语言](jiao-hu/yu-yan.md)
 * [视觉](jiao-hu/shi-jue.md)
 
