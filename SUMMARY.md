@@ -6,3 +6,7 @@
 
 * [动捕](ji-shu/dong-bu.md)
 
+## 模型
+
+* [建模](mo-xing/jian-mo.md)
+
