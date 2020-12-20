@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ATZ.Ada](README.md)
+* [Ada](README.md)
 
 ## 模型
 
